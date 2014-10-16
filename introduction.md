@@ -1,8 +1,9 @@
 Node.js - Introduction
 =======
 With node.js you can build network applications using JavaScript as serverside-language. For example a **websocket server** or any **real-time data apps**.
-Node.js isn't a WebFramework and it's not made for beginners because it's very low level. Node.js bases on a non-blocking, event-driven model that makes
-it lightweight and efficient, *perfect for data-intensive real-time applications that run across distributed devices*.
+Node.js isn't a web-framework and it's not made for beginners because it's very low level. If you want to work with node.js you should have some experiences
+with JavaScript. Node.js bases on a non-blocking, event-driven model that makes it lightweight and efficient, *perfect for data-intensive real-time applications
+that run across distributed devices*.
 
 ##Blocking or Non-Blocking
 Now we want to differ these to keywords.
@@ -66,4 +67,4 @@ But with the **Non-Blocking Way** they are read parallel which means the time ne
 > *"JavaScript has certain characteristics that make it very different than other dynamic languages, namely that it has no concept of threads.
 > Its model of concurrency is completely based around events"* - **Ryan Dahl**, founder of Node.js
 
-That's the reason why node.js is writen in JavaScript.
+That's the reason why node.js is written in JavaScript.
