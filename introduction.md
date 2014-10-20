@@ -5,7 +5,7 @@ Node.js isn't a web-framework and it's not made for beginners because it's very 
 with JavaScript. Node.js bases on a non-blocking, event-driven model that makes it lightweight and efficient, *perfect for data-intensive real-time applications
 that run across distributed devices*.
 
-##Blocking or Non-Blocking
+##Blocking or Non-Blocking / Sync or Async
 Now we want to differ these to keywords.
 
 ####theoretical Example
