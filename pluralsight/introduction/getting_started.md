@@ -52,4 +52,5 @@ Run it with `node server.js` and open your browser and visit the printed [http:/
 In Node.js we write asynchronous code, that means we will work with callbacks.
 ***
 [visit the course :rocket:](http://www.pluralsight.com/courses/node-intro) - [go to the README of pluralsight :books:](../README.md)
+
 [Next Module :arrow_forward:](modules_require_npm.md)
