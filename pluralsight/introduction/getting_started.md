@@ -73,6 +73,7 @@ Now we are programming with **callbacks**. A callback is a function that's calle
 
 As a practical example download [this file](examples/async_example.js) and run it on node.
 ![This is the example](examples/async_example.png)
+
 Now you should understand these pattern.
 
 ***
