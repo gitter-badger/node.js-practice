@@ -72,7 +72,7 @@ doSomethingElseAsync();
 Now we are programming with **callbacks**. A callback is a function that's called after a finished task. The advantage of 'working with callbacks' is, that the code don't have to wait for something. The method `doSomethingElseAsync()` could be called while `doSomethingAndReturnAsync()` **is still running**, but the method `afterDoSomethingGetContentAsync()` is waiting for the result.
 
 As a practical example download [this file](examples/async_example.js) and run it on node.
-![This is the example](examples/async_example.png)
+![Console log](examples/async_example.png)
 
 Now you should understand these pattern.
 
