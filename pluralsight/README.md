@@ -6,4 +6,4 @@ I visited several node.js-courses on pluralsight.com and documented them here.
 * [Introduction to Node.js](http://www.pluralsight.com/courses/node-intro), was the first course i visited. [:arrow_right: go here](introduction/getting_started.md).
 
 ***
-[:octocat: Node on Github](https://github.com/joyent/node)
+[:octocat: Node on GitHub](https://GitHub.com/joyent/node)
